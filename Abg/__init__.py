@@ -6,7 +6,7 @@ __copyright__ = (
     f"Copyright 2023 - {datetime.now().year} Abishnoi69 <github.com/Abishnoi69>"
 )
 
-LOGGER = logging.getLogger("Abg")
+LOGGER = logging.getLogger("Drm")
 
 from . import inline, patch
 
