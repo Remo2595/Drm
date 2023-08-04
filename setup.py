@@ -30,7 +30,7 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 
 setuptools.setup(
-    name="Abg",
+    name="Drm",
     packages=setuptools.find_packages(),
     version="2.3.5",
     description="add-on for Pyrogram || Telegram bot helpers || Easy botting",
@@ -66,9 +66,9 @@ setuptools.setup(
     keywords="add-on pyrogram bots telegram bot chat messenger mtproto api client library python conversation keyboard userbot patch https",
     project_urls={
         "Tracker": "https://github.com/Abishnoi69/Abg/issues",
-        "Community": "https://t.me/Abgpy",
-        "Source": "https://github.com/Abishnoi69/Abg",
-        "Documentation": "https://github.com/Abishnoi69/Abg/tree/master/doce",
+        "Community": "https://t.me/remo_update",
+        "Source": "https://github.com/Remo2595/Drm",
+        "Documentation": "https://github.com/Remo2595/Drm/tree/master/doce",
     },
     python_requires="~=3.7",
     zip_safe=False,
