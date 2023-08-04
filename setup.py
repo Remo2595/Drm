@@ -30,7 +30,7 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 
 setuptools.setup(
-    name="Drm",
+    name="Abg",
     packages=setuptools.find_packages(),
     version="2.3.5",
     description="add-on for Pyrogram || Telegram bot helpers || Easy botting",
