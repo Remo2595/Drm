@@ -30,13 +30,13 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 
 setuptools.setup(
-    name="Abg",
+    name="Drm",
     packages=setuptools.find_packages(),
     version="2.3.5",
     description="add-on for Pyrogram || Telegram bot helpers || Easy botting",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Abishnoi69/Abg",
+    url="https://github.com/Remo2595/Drm",
     download_url="https://github.com/Abishnoi69/Abg/releases/latest",
     author="Abishnoi",
     author_email="Abishnoi69@Abg.org",
